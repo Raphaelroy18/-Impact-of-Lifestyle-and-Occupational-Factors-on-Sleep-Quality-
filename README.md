@@ -1,12 +1,15 @@
 # Impact of Lifestyle and Occupational Factors on Sleep Quality
-This project analysis how lifestyle, stress, and occupation affect sleep quality using the Sleep Health and Lifestyle dataset. It reveals how physical activity, work habits, and health indicators influence rest, promoting data-driven wellness and healthier living patterns.
 
-Introduction
+*This project analysis how lifestyle, stress, and occupation affect sleep quality using the Sleep Health and Lifestyle dataset. It reveals how physical activity, work habits, and health indicators influence rest, promoting data-driven wellness and healthier living patterns*.
+
+**Introduction**
+
 Sleep is one of the most essential physiological activities required for healthy living, yet in modern society, it is often neglected due to increased work demands, technology use, and lifestyle stress. Poor sleep has been linked to reduced productivity, mental fatigue, obesity, stress, and cardiovascular risks.
 In today’s fast-paced world where remote work, multitasking, and long hours are common understanding how lifestyle factors such as occupation, stress, physical activity, and BMI affect sleep is crucial. This project analysis how these factors interact and influence sleep quality and sleep duration, using real-world data and data visualization techniques.
 
 
-Project Overview
+**Project Overview**
+
 This project, titled “Sleep, Health, and Lifestyle Analysis,” explores how demographic, occupational, and lifestyle factors correlate with sleep health among working adults.
 Using Power BI and Python analytics, the study investigates the relationships between:
 •	Occupation and sleep quality,
@@ -15,7 +18,7 @@ Using Power BI and Python analytics, the study investigates the relationships be
 The dashboard visually presents these patterns, making it easier to interpret data-driven insights that support recommendations for improving health and wellness in professional and personal life.
 
 
-Dataset Overview
+**Dataset Overview**
 The dataset, titled contains records of individuals demographic details, sleep behaviour, and lifestyle indicators. Each column represents a specific factor influencing rest and health.
 Feature	Description
 Gender	Male or Female participants
