@@ -10,7 +10,7 @@ In today’s fast-paced world where remote work, multitasking, and long hours ar
 
 **Project Overview**
 
-This project, titled “Sleep, Health, and Lifestyle Analysis,” explores how demographic, occupational, and lifestyle factors correlate with sleep health among working adults.
+This project, explores how demographic, occupational, and lifestyle factors correlate with sleep health among working adults.
 Using Power BI and Python analytics, the study investigates the relationships between:
 •	Occupation and sleep quality,
 •	Physical activity (daily steps) and sleep duration,
