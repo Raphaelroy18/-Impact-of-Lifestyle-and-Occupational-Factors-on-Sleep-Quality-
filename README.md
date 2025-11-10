@@ -19,6 +19,7 @@ The dashboard visually presents these patterns, making it easier to interpret da
 
 
 **Dataset Overview**
+
 The dataset, titled contains records of individuals demographic details, sleep behaviour, and lifestyle indicators. Each column represents a specific factor influencing rest and health.
 Feature	Description
 Gender	Male or Female participants
