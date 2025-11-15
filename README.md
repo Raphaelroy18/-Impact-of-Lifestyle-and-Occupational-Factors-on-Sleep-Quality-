@@ -34,6 +34,8 @@ Heart Rate (bpm)	Average resting heart rate
 Daily Steps	Number of steps per day
 The dataset provides a well-rounded view of how lifestyle, occupation, and health interact allowing for meaningful analysis of real-life sleep patterns.
 
+The dataset used in this project was sourced from kaggle(https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset)
+
 **Project Objective**
 
 The primary objectives of this analysis are:
@@ -70,6 +72,15 @@ The findings can guide healthcare practitioners, organizations, and individuals 
 Sleep quality is linked to memory, focus, metabolism, and immunity. Understanding its relationship with lifestyle factors emphasizes the need for good sleep hygiene in everyday living.
 5.	Contributes to Research on Preventive Health
 Early identification of poor sleep habits and associated risk factors (like high stress or low activity) can help prevent chronic diseases and improve long-term well-being.
+
+**Tools and Technologies Used**
+
+Tool / Technology	Purpose
+
+Microsoft Excel	Data cleaning, formatting, and pre-processing.
+	
+Power BI	Dashboard creation, visual storytelling, and interactive insights.
+
 
 
 
