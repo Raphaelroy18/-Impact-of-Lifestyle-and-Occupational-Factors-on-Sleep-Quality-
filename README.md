@@ -82,8 +82,10 @@ Microsoft Excel	Data cleaning, formatting, and pre-processing.
 Power BI	Dashboard creation, visual storytelling, and interactive insights.
 
 
-<img width="1117" height="635" alt="Screenshot 2025-11-10 122031" src="https://github.com/user-attachments/assets/35231013-fac6-48ff-a35a-5974af82b55b" />
 
+
+
+<img width="1117" height="635" alt="Screenshot 2025-11-10 122031" src="https://github.com/user-attachments/assets/38d2f05f-0fbc-469f-9d6e-70f7a7169eb3" />
 
 
 
