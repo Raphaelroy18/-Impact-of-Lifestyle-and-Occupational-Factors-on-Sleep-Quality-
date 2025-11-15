@@ -87,6 +87,42 @@ Power BI	Dashboard creation, visual storytelling, and interactive insights.
 <img width="1117" height="635" alt="Screenshot 2025-11-10 122031" src="https://github.com/user-attachments/assets/edb7c180-7df9-4263-b300-ed36546895c1" />
 
 
+**Key Insights from the Dashboard**
+
+1.	Average Sleep Duration: 7.13 hours — aligns with recommended sleep length.
+   
+2.	Average Sleep Quality: 7.31 / 10 — moderate to good quality among most individuals.
+
+3.	Occupation Impact: Nurses, engineers, and doctors show higher sleep quality than managers and sales roles.
+   
+4.	Gender Distribution: Balanced dataset (50% male, 50% female).
+   
+5.	BMI Relation: Individuals with normal BMI report better sleep quality.
+   
+6.	Physical Activity Influence: Moderate daily steps (6K–8K) associate with longer sleep duration.
+
+
+**Summary**
+
+The analysis reveals that:
+
+•	Occupation type significantly affects sleep quality due to varying work demands.
+
+•	BMI and physical activity show strong correlations with better sleep outcomes.
+
+•	Stress management remains a key factor in ensuring healthy rest.
+
+These findings confirm that sleep is not only a biological need but also a lifestyle outcome influenced by occupational and personal habits.
+
+**Conclusion**
+
+This project demonstrates how data analytics can uncover valuable insights about human wellbeing. By analysing lifestyle data, we learn that achieving optimal sleep requires balancing workload, physical activity, and stress management.
+In modern jobs, where burnout and fatigue are common, such analysis can guide both individuals and organizations to adopt healthier routines, improve productivity, and enhance quality of life.
+Ultimately, sleep health should be seen not as a luxury, but as a measurable and improvable aspect of modern living.
+
+
+
+
 
 
 
