@@ -84,9 +84,7 @@ Power BI	Dashboard creation, visual storytelling, and interactive insights.
 
 
 
-
-<img width="1117" height="635" alt="Screenshot 2025-11-10 122031" src="https://github.com/user-attachments/assets/38d2f05f-0fbc-469f-9d6e-70f7a7169eb3" />
-
+<img width="1117" height="635" alt="Screenshot 2025-11-10 122031" src="https://github.com/user-attachments/assets/edb7c180-7df9-4263-b300-ed36546895c1" />
 
 
 
